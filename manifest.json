@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "ТабМенеджер",
+  "version": "1.0.0",
+  "description": "Сэкономьте память, преобразовав вкладки в удобный список - Создано Browserx.ru",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon48.png",
+      "96": "icon96.png"
+    }
+  },
+  "icons": {
+    "48": "icon48.png",
+    "96": "icon96.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
