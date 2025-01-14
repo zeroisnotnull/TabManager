@@ -2,6 +2,7 @@
 
 ТабМенеджер is a lightweight and efficient Chrome extension designed to help you save memory and organize your tabs effortlessly. Convert all your open tabs into a manageable list, restore them when needed, and enjoy a clutter-free browsing experience.
 
+![alt text](https://browserx.ru/uploads/extensions/tabmanager/tabmanager2.png)
 
 # Features
 
@@ -60,6 +61,7 @@ If you find this extension useful, consider giving it a ⭐ on GitHub! For issue
 
 ТабМенеджер — это легкое и эффективное расширение для Chrome, которое помогает экономить память и легко организовывать вкладки. Преобразуйте все открытые вкладки в удобный список, восстанавливайте их при необходимости и наслаждайтесь удобным и чистым интерфейсом браузера.
 
+![alt text](https://browserx.ru/uploads/extensions/tabmanager/tabmanager2.png)
 
 # Возможности
 
